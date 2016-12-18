@@ -1,0 +1,18 @@
+body {
+        background: #000000;
+        font-family: trebuchet ms, verdana, sans-serif;
+        font-size: 10pt;
+        color: #D5D5D5;
+        margin: 0px;
+        padding: 0px;
+        }
+
+a, a:link, a:active, a:visited {
+        color: #6D78A3;
+        text-decoration: none;
+        }
+
+a:hover {
+        color: #B4B5CB;
+        text-decoration: none;
+        }
